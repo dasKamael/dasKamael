@@ -20,14 +20,14 @@
         src="./images/dart_logo.png"
         alt="Dart" height="48px"
         align="left"
-        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+        style="max-width: 100%; margin:0px 20px 20px 0px;"> 
     </a>
     <a href="https://developer.mozilla.org/de/docs/Web/JavaScript">
         <img
         src="./images/js_logo.png"
         alt="Javascript" height="48px"
         align="left"
-        style="max-width: 100%; margin:0px 20px 0px 0;"> 
+        style="max-width: 100%; margin:0px;"> 
     </a>    
     </td>
     <td>
@@ -36,21 +36,21 @@
         src="./images/react_logo.png"
         alt="React" height="48px" 
         align="left"
-        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+        style="max-width: 100%; margin:0px 20px 20px 0px;"> 
     </a>
     <a href="https://flutter.dev/">
         <img
         src="./images/node_logo.svg"
         alt="Node" height="48px" 
         align="left"
-        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+        style="max-width: 100%; margin:0px 20px 20px 0px;"> 
     </a>
     <a href="https://nodejs.org/">
         <img
         src="./images/flutter_logo.svg"
         alt="Flutter" height="48px" 
         align="left"
-        style="max-width: 100%; margin:0px 20px 0px 0;"> 
+        style="max-width: 100%; margin:0px;"> 
     </a>
     </td>
 </table>
@@ -74,7 +74,7 @@
         src="./images/mysql_logo.png"
         alt="MySQL" height="48px"
         align="left"
-        style="max-width: 100%; margin:0px 20px 0px 0;"> 
+        style="max-width: 100%; margin:0px;"> 
     </a>    
     </td>
     <td>
@@ -97,7 +97,7 @@
         src="./images/jira_logo.svg"
         alt="Jira" height="48px" 
         align="left"
-        style="max-width: 100%; margin:0px 20px 0px 0;"> 
+        style="max-width: 100%; margin:0px;"> 
     </a>
     </td>
 </table>
