@@ -26,7 +26,7 @@
         src="./images/js_logo.png"
         alt="Javascript" height="48px"
         align="left"
-        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+        style="max-width: 100%; margin:0px 20px 0px 0;"> 
     </a>    
     </td>
     <td>
@@ -49,7 +49,7 @@
         src="./images/flutter_logo.svg"
         alt="Flutter" height="48px" 
         align="left"
-        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+        style="max-width: 100%; margin:0px 20px 0px 0;"> 
     </a>
     </td>
 </table>
@@ -73,7 +73,7 @@
         src="./images/mysql_logo.png"
         alt="MySQL" height="48px"
         align="left"
-        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+        style="max-width: 100%; margin:0px 20px 0px 0;"> 
     </a>    
     </td>
     <td>
@@ -96,7 +96,7 @@
         src="./images/jira_logo.svg"
         alt="Jira" height="48px" 
         align="left"
-        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+        style="max-width: 100%; margin:0px 20px 0px 0;"> 
     </a>
     </td>
 </table>
