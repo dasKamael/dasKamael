@@ -12,7 +12,7 @@
 <table>
     <tr>
         <th align="left">Languages</th>
-        <th>Frameworks</th>
+        <th align="left">Frameworks</th>
     </tr>
     <td>
     <a href="https://dart.dev/">
@@ -58,8 +58,8 @@
 
 <table>
     <tr>
-        <th>Database</th>
-        <th>Tools</th>
+        <th align="left">Database</th>
+        <th align="left">Tools</th>
     </tr>
     <td>
     <a href="https://firebase.google.com/products/firestore">
