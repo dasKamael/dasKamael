@@ -2,7 +2,7 @@
 
 [<img align="right" width="45%" src="https://github-readme-stats-ouuan.vercel.app/api?username=dasKamael&theme=dark&show_icons=true">](https://metrics.lecoq.io/dasKamael?template=classic)
 * Currently a Student at Hochschule Rhein Main
-* Learning React
+* Learning React and expanding my knowledge in Flutter
 
 <br>
 <br>
