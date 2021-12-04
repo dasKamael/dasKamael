@@ -27,7 +27,7 @@
         src="./images/js_logo.png"
         alt="Javascript" height="48px"
         align="left"
-        style="max-width: 100%; margin:0px;"> 
+        style="max-width: 100%; margin-right:0px;"> 
     </a>    
     </td>
     <td>
