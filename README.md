@@ -9,7 +9,7 @@
 
 ## My Tech Stack
 
-<table style="min-width: 50%">
+<table>
     <tr>
         <th align="left">Languages</th>
         <th align="left">Frameworks</th>
@@ -56,7 +56,7 @@
 </table>
 
 
-<table style="min-width: 50%">
+<table>
     <tr>
         <th align="left">Database</th>
         <th align="left">Tools</th>
