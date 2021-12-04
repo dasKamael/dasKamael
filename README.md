@@ -1,4 +1,7 @@
-# Hi I'm Richard 👋
+# Hi👋
+## I'm Richard - aka dasKamael
+
+
 
 <!--
 **dasKamael/dasKamael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
