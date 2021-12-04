@@ -4,9 +4,10 @@
 * Currently a Student at Hochschule Rhein Main
 * Learning React
 
+<br>
+<br>
 
 ## My Tech Stack
-
 
 <table>
     <tr>
