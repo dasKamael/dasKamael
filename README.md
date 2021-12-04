@@ -8,7 +8,7 @@
 ## My Tech Stack
 
 ### Languages
-<br>
+
 <a href="https://dart.dev/">
     <img
     src="./images/dart_logo.png"
@@ -31,7 +31,7 @@
 <br/>
 
 ### Frameworks
-<br>
+
 <a href="https://reactjs.org/">
     <img
     src="./images/react_logo.png"
