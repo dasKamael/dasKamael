@@ -11,7 +11,7 @@
 
 <table>
     <tr>
-        <th>Languages</th>
+        <th align="left">Languages</th>
         <th>Frameworks</th>
     </tr>
     <td>
