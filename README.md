@@ -1,7 +1,7 @@
 # Hi👋
 ## I'm Richard - aka dasKamael 🐫
 
-
+### Currently I'm a Student at Hochschule Rhein Main
 
 <!--
 **dasKamael/dasKamael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
