@@ -7,52 +7,99 @@
 
 ## My Tech Stack
 
-### Languages
 
-<a href="https://dart.dev/">
-    <img
-    src="./images/dart_logo.png"
-    alt="Dart" height="48px" 
-    align="left"
-    style="max-width: 100%; margin-right:20px;"> 
-</a>
+<table>
+    <tr>
+        <th>Languages</th>
+        <th>Frameworks</th>
+    </tr>
+    <td>
+    <a href="https://dart.dev/">
+        <img
+        src="./images/dart_logo.png"
+        alt="Dart" height="48px"
+        align="left"
+        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+    </a>
+    <a href="https://developer.mozilla.org/de/docs/Web/JavaScript">
+        <img
+        src="./images/js_logo.png"
+        alt="Javascript" height="48px"
+        align="left"
+        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+    </a>    
+    </td>
+    <td>
+    <a href="https://reactjs.org/">
+        <img
+        src="./images/react_logo.png"
+        alt="React" height="48px" 
+        align="left"
+        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+    </a>
+    <a href="https://flutter.dev/">
+        <img
+        src="./images/node_logo.svg"
+        alt="Node" height="48px" 
+        align="left"
+        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+    </a>
+    <a href="https://nodejs.org/">
+        <img
+        src="./images/flutter_logo.svg"
+        alt="Flutter" height="48px" 
+        align="left"
+        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+    </a>
+    </td>
+</table>
 
-<a href="https://developer.mozilla.org/de/docs/Web/JavaScript">
-    <img
-    src="./images/js_logo.png"
-    alt="Javascript" height="48px" 
-    align="left"
-    style="max-width: 100%; margin-right:20px;"> 
-</a>
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-### Frameworks
-
-<a href="https://reactjs.org/">
-    <img
-    src="./images/react_logo.png"
-    alt="React" height="48px" 
-    align="left"
-    style="max-width: 100%; margin-right:20px;"> 
-</a>
-<a href="https://flutter.dev/">
-    <img
-    src="./images/node_logo.svg"
-    alt="Node" height="48px" 
-    align="left"
-    style="max-width: 100%; margin-right:20px;"> 
-</a>
-<a href="https://nodejs.org/">
-    <img
-    src="./images/flutter_logo.svg"
-    alt="Flutter" height="48px" 
-    align="left"
-    style="max-width: 100%; margin-right:20px;"> 
-</a>
+<table>
+    <tr>
+        <th>Database</th>
+        <th>Tools</th>
+    </tr>
+    <td>
+    <a href="https://firebase.google.com/products/firestore">
+        <img
+        src="./images/firestore_logo.svg"
+        alt="Firestore" height="48px"
+        align="left"
+        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+    </a>
+    <a href="https://www.mysql.com/">
+        <img
+        src="./images/mysql_logo.png"
+        alt="MySQL" height="48px"
+        align="left"
+        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+    </a>    
+    </td>
+    <td>
+    <a href="https://firebase.google.com/">
+        <img
+        src="./images/firebase_logo.svg"
+        alt="Firebase" height="48px" 
+        align="left"
+        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+    </a>
+    <a href="https://git-scm.com/">
+        <img
+        src="./images/git_logo.png"
+        alt="Git" height="48px" 
+        align="left"
+        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+    </a>
+    <a href="https://www.atlassian.com/de/software/jira">
+        <img
+        src="./images/jira_logo.svg"
+        alt="Jira" height="48px" 
+        align="left"
+        style="max-width: 100%; margin:0px 20px 20px 0;"> 
+    </a>
+    </td>
+</table>
 
 
 
