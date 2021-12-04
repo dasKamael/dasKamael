@@ -9,7 +9,7 @@
 
 ## My Tech Stack
 
-<table>
+<table style="border: none;">
     <tr>
         <th align="left">Languages</th>
         <th align="left">Frameworks</th>
