@@ -1,8 +1,8 @@
 # Hi👋 I'm Richard - aka dasKamael 🐫
 
 [<img align="right" width="45%" src="https://github-readme-stats-ouuan.vercel.app/api?username=dasKamael&theme=dark&show_icons=true">](https://metrics.lecoq.io/dasKamael?template=classic)
-* Compuer Science Student at Hochschule Rhein Main
-* I'm Learning React while expanding my knowledge in Flutter
+* 📚 Compuer Science Student at Hochschule Rhein Main
+* 👨‍💻 I'm Learning React while expanding my knowledge in Flutter
 
 <br>
 <br>
