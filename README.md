@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## My stack
+## My stack and tools
 
 <table align="center">
     <tr>
