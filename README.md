@@ -9,7 +9,7 @@
 
 ## My stack
 
-<table>
+<table align="center">
     <tr>
         <th align="left">Languages</th>
         <th align="left">Frameworks</th>
