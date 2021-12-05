@@ -97,54 +97,6 @@
 </table>
 
 
-<table>
-    <tr>
-        <th align="left">Database</th>
-        <th align="left">Tools</th>
-    </tr>
-    <td>
-    <a href="https://firebase.google.com/products/firestore">
-        <img
-        src="./images/firestore_logo.svg"
-        alt="Firestore" height="48px"
-        align="left"
-        style="max-width: 100%; margin:0px 20px 20px 0;"> 
-    </a>
-    <a href="https://www.mysql.com/">
-        <img
-        src="./images/mysql_logo.png"
-        alt="MySQL" height="48px"
-        align="left"
-        style="max-width: 100%; margin:0px;"> 
-    </a>    
-    </td>
-    <td>
-    <a href="https://firebase.google.com/">
-        <img
-        src="./images/firebase_logo.svg"
-        alt="Firebase" height="48px" 
-        align="left"
-        style="max-width: 100%; margin:0px 20px 20px 0;"> 
-    </a>
-    <a href="https://git-scm.com/">
-        <img
-        src="./images/git_logo.png"
-        alt="Git" height="48px" 
-        align="left"
-        style="max-width: 100%; margin:0px 20px 20px 0;"> 
-    </a>
-    <a href="https://www.atlassian.com/de/software/jira">
-        <img
-        src="./images/jira_logo.svg"
-        alt="Jira" height="48px" 
-        align="left"
-        style="max-width: 100%; margin:0px;"> 
-    </a>
-    </td>
-</table>
-
-
-
 <!--
 **dasKamael/dasKamael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
