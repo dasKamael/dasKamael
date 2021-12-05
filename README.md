@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## My Tech Stack
+## My stack
 
 <table>
     <tr>
