@@ -38,13 +38,6 @@
     </a>    
     </td>
     <td>
-    <a href="https://reactjs.org/">
-        <img
-        src="./images/react_logo.png"
-        alt="React" height="48px" 
-        align="left"
-        style="max-width: 100%; margin:0px 20px 20px 0px;"> 
-    </a>
     <a href="https://flutter.dev/">
         <img
         src="./images/node_logo.svg"
