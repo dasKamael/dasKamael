@@ -4,7 +4,7 @@
 
 
 * 📚 Compuer Science Student at Hochschule Rhein Main
-* 👨‍💻 Constantly trying to expand my knowledge in Flutter and UX Design
+* 👨‍💻 Constantly trying to expand my knowledge in Flutter and UI/UX Design
 
 [<img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=dasKamael&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D">](https://git.io/streak-stats)
 [<img width="49%" src="https://github-readme-stats-ouuan.vercel.app/api?username=dasKamael&theme=dark&show_icons=true">](https://metrics.lecoq.io/dasKamael?template=classic)
