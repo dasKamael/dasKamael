@@ -3,7 +3,7 @@
 
 
 
-* 📚 Compuer Science Student at Hochschule Rhein Main
+* 📚 Flutter App Developer at coodoo GmbH
 * 👨‍💻 Constantly trying to expand my knowledge in Flutter and UI/UX Design
 * 🕸 Currently trying to gather knowledge in Web-Development using React and Typescript
 
